@@ -1,0 +1,2 @@
+# blokus
+Blokus Game Contest
